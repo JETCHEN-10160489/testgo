@@ -1,0 +1,2 @@
+# testgo
+go测试
