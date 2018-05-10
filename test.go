@@ -12,7 +12,7 @@ func main() {
 			fmt.Print("\n")
 			continue
 		}
-		fmt.Print("慕课网\n")
+		fmt.Print("testgo\n")
 	}
 
 }
